@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MvcServletTest:war">
+    <output-path>$PROJECT_DIR$/MvcServletTest/target</output-path>
+    <root id="archive" name="MvcServletTest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MvcServletTest:war exploded" />
+    </root>
+  </artifact>
+</component>

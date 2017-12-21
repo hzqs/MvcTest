@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MvcServlet/MvcServlet.iml" filepath="$PROJECT_DIR$/MvcServlet/MvcServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcServletTest/MvcServletTest.iml" filepath="$PROJECT_DIR$/MvcServletTest/MvcServletTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcTest.iml" filepath="$PROJECT_DIR$/MvcTest.iml" />
+    </modules>
+  </component>
+</project>
